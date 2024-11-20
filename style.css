@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    color: white;
+}
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    margin: auto;
+    text-align: center;
+    font-size: 62.5%;
+    font-family: sans-serif;
+    background-image: radial-gradient( circle farthest-corner at 3.2% 49.6%,  rgba(80,12,139,0.87) 0%, rgba(141, 9, 126, 0.72) 83.6% );
+}
+h1 {
+    color: goldenrod;
+    margin: 3rem;
+    font-size: 3rem;
+}
+p {
+    margin: 1rem;
+    font-size: 2rem;
+}
+button {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    background-color: transparent;
+    border: 5px dotted white;
+}
