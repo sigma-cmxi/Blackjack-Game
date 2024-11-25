@@ -18,7 +18,7 @@ body {
     background-image: radial-gradient( circle farthest-corner at 3.2% 49.6%,  rgba(80,12,139,0.87) 0%, rgba(141, 9, 126, 0.72) 83.6% );
 }
 h1 {
-    color: goldenrod;
+    color: #fff;
     margin: 3rem;
     font-size: 3rem;
 }
@@ -27,6 +27,7 @@ p {
     font-size: 2rem;
 }
 button {
+    margin: 1rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
